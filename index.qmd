@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My Website"
-author: "Your Name"
-date: "2025-01-24"
+author: "Marco Paul Perez"
+date: "2025-02-07"
 format:
   html:
     theme: journal
