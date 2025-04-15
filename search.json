@@ -16,9 +16,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Portfolio",
+    "title": "Home",
     "section": "",
-    "text": "Hello Everyone"
+    "text": "Welcome to my data science portfolio.\nI’m passionate about transforming data into insights that drive decision-making. Explore my work, learn more about me, or check out my latest projects below.\n\n\n\n\n👤 About Me\n📄 View my Resume\n📊 See My Projects\n📬 Get in Touch"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Home",
+    "section": "",
+    "text": "👤 About Me\n📄 View my Resume\n📊 See My Projects\n📬 Get in Touch"
   },
   {
     "objectID": "about.html",
