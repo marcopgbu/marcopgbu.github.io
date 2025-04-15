@@ -1,20 +1,10 @@
 ---
-title: "Welcome to My Website"
-author: "Marco Paul Perez"
-date: "2025-02-07"
+title: "My Portfolio"
+author: "Marco Perez"
 format:
   html:
     theme: journal
     toc: true
 ---
-# Hello, World!  
-Welcome to my Quarto website.  
 
-## My Courses in Spring 2025
-    - Web Analytics for Business
-    - Data Mining
-    - Enterprise Risk Analytics
-    - Marketing Analytics
-
-## One song I've been listening to
-[MY EYES - Travis Scott](https://www.youtube.com/watch?v=pildU9lK6vM&ab_channel=TravisScottVEVO)
+- Hello Everyone

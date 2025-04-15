@@ -2,20 +2,27 @@ project:
   type: website
 
 website:
-  title: "marcopgbu.github.io"
+  title: "portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - href: projects.qmd
+        text: My Projects
+      - href: cv.qmd
+        text: Resume
+      - href: contact.qmd
+        text: Contact Me
+
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: flatly
     css: styles.css
-    toc: true
+    toc: false
+
 
 
 
