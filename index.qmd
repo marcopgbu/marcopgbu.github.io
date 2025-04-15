@@ -1,10 +1,20 @@
 ---
-title: "My Portfolio"
-author: "Marco Perez"
-format:
-  html:
-    theme: journal
-    toc: true
+title: "Home"
+format: html
+page-layout: full
 ---
 
-- Hello Everyone
+# 👋 Hi, I'm Marco
+
+Welcome to my data science portfolio.
+
+I'm passionate about transforming data into insights that drive decision-making. Explore my work, learn more about me, or check out my latest projects below.
+
+---
+
+## 🔍 Quick Links
+
+- 👤 [About Me](about.qmd)
+- 📄 [View my Resume](cv.qmd)
+- 📊 [See My Projects](projects.qmd)
+- 📬 [Get in Touch](contact.qmd)
