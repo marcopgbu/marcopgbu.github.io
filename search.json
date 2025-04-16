@@ -11,14 +11,14 @@
     "href": "cv.html",
     "title": "Resume",
     "section": "",
-    "text": "You can view or download my CV clicking the button below:\n📄 Download CV (PDF)"
+    "text": "You can view or download my CV clicking the button below:\nDownload CV (PDF)"
   },
   {
     "objectID": "cv.html#professional-summary",
     "href": "cv.html#professional-summary",
     "title": "Resume",
     "section": "Professional Summary",
-    "text": "Professional Summary\nI’m a graduate student in Applied Business Analytics at Boston University with a background in finance, tax consulting, and business analysis. I’ve worked at firms like Deloitte and HJM International Logistics, where I used data to drive strategic insights, optimize financial processes, and improve compliance.\nMy skillset spans data visualization (Power BI, Tableau), Python and R for analytics, and cloud technologies like AWS. I’ve applied these tools to solve real-world business problems — from uncovering tax inefficiencies to building dashboards and automating reporting workflows.\nI’m passionate about combining business context with data science to deliver measurable value, and I’m constantly learning to grow as a data-driven problem solver."
+    "text": "Professional Summary\nI’m a graduate student in Applied Business Analytics at Boston University with a background in finance, tax consulting, and business analysis. I’ve worked at companies like Deloitte and HJM International Logistics, where I used data to drive strategic insights, optimize financial processes, and improve compliance.\nMy skillset spans data visualization (Power BI, Tableau), Python and R for analytics, and cloud technologies like AWS. I’ve applied these tools to solve real-world business problems — from uncovering tax inefficiencies to building dashboards and automating reporting workflows.\nI’m passionate about combining business context with data science to deliver measurable value, and I’m constantly learning to grow as a data-driven problem solver."
   },
   {
     "objectID": "index.html",
