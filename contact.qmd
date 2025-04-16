@@ -1,5 +1,26 @@
 ---
-title: "Contact Me"
+title: ""
+format: html
+page-layout: full
 ---
 
-Hiiiii
+# Get in Touch
+
+I'm always open to new opportunities, collaborations, or just a good data conversation.
+
+You can reach me through any of the platforms below:
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [marcopgbusiness@gmail.com](mailto:marcopgbusiness@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/marcoperezpg](https://www.linkedin.com/in/marcoperezpg/)  
+- 🐙 GitHub: [github.com/marcopgbu](https://github.com/marcopgbu)  
+- 🌐 Portfolio: [marcopgbu.github.io](https://marcopgbu.github.io)
+- ✍️ Medium: [medium.com/@marcopg](https://medium.com/@marcopg)
+
+
+---
+
+Or just say hi using the links above — I’ll get back to you soon!
