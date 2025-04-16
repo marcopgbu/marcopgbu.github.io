@@ -1,5 +1,26 @@
 ---
-title: "Projects"
+title: "My Projects"
+format: html
+page-layout: full
 ---
 
-Hiiiii
+<div class="project-grid">
+
+<!-- Finance Strategy Project -->
+<div class="project-card">
+  <img src="images/finance.png" alt="Finance Strategy Preview" />
+  <h3>Sentiment-Driven Trading Strategy</h3>
+  <p>Developed a custom strategy using the Vortex Indicator, 5-day average sentiment overlays, and ATR filtering. Backtested using VectorBT across multiple tickers like TSLA, SPY, and AAPL.</p>
+  <a href="https://github.com/pranjul11garg/Vortex-Sentiment-Adaptive-Volatility-VSAV-Strategy.git" target="_blank">View on GitHub</a>
+</div>
+
+<!-- Shohei Ohtani Data Project -->
+<div class="project-card">
+  <img src="images/shohei_graph.png" alt="Ohtani Analysis" />
+  <h3>Shohei Ohtani: Performance Breakdown</h3>
+  <p>Analyzed Ohtani’s predicted pitching stats for the 2024 season using R and visualizations. This project supported an article exploring what makes him such a unique asset in baseball.</p>
+  <a href="https://github.com/marcopgus/ohtani-2024-prediction.git" target="_blank">View on GitHub</a><br>
+  <a href="https://medium.com/@marcopg/shohei-ohtanis-2024-pitching-what-if-f7c80b87ad2d" target="_blank">Read the Article</a>
+</div>
+
+</div>

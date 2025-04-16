@@ -30,9 +30,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "My Projects",
     "section": "",
-    "text": "Hiiiii"
+    "text": "Sentiment-Driven Trading Strategy\n\n\nDeveloped a custom strategy using the Vortex Indicator, 5-day average sentiment overlays, and ATR filtering. Backtested using VectorBT across multiple tickers like TSLA, SPY, and AAPL.\n\nView on GitHub\n\n\n\n\n\nShohei Ohtani: Performance Breakdown\n\n\nAnalyzed Ohtani’s predicted pitching stats for the 2024 season using R and visualizations. This project supported an article exploring what makes him such a unique asset in baseball.\n\nView on GitHub Read the Article"
   },
   {
     "objectID": "about.html",
@@ -60,7 +60,7 @@
     "href": "about.html#outside-of-work",
     "title": "About Me",
     "section": "Outside of Work",
-    "text": "Outside of Work\nWhen I’m not coding, you’ll probably find me exploring new cities, watching football, or creating content to help others learn data science."
+    "text": "Outside of Work\nWhen I’m not coding, you’ll probably find me exploring new cities, watching sports, or creating content to help others learn data science."
   },
   {
     "objectID": "contact.html#contact",
