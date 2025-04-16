@@ -9,7 +9,7 @@ page-layout: full
 <!-- Finance Strategy Project -->
 <div class="project-card">
   <img src="images/finance.png" alt="Finance Strategy Preview" />
-  <h3>Sentiment-Driven Trading Strategy</h3>
+  <h3>Data-Driven Trading Strategy</h3>
   <p>Developed a custom strategy using the Vortex Indicator, 5-day average sentiment overlays, and ATR filtering. Backtested using VectorBT across multiple tickers like TSLA, SPY, and AAPL.</p>
   <a href="https://github.com/pranjul11garg/Vortex-Sentiment-Adaptive-Volatility-VSAV-Strategy.git" target="_blank">View on GitHub</a>
 </div>
