@@ -1,5 +1,8 @@
 project:
   type: website
+  output-dir: _site
+  resources:
+    - Marco_Perez_CV.pdf
 
 website:
   title: "Portfolio"
