@@ -4,9 +4,9 @@ format: html
 page-layout: full
 ---
 
-You can view or download my CV using the link below:
+You can view or download my CV clicking the button below:
 
-📄 [Download CV (PDF)](Marco_Perez_CV.pdf)
+📄 [Download CV (PDF)](Marco_Perez_CV.pdf){.btn .btn-primary target="_blank"}
 
 ---
 
