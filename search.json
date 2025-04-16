@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "My Projects",
     "section": "",
-    "text": "Sentiment-Driven Trading Strategy\n\n\nDeveloped a custom strategy using the Vortex Indicator, 5-day average sentiment overlays, and ATR filtering. Backtested using VectorBT across multiple tickers like TSLA, SPY, and AAPL.\n\nView on GitHub\n\n\n\n\n\nShohei Ohtani: Performance Breakdown\n\n\nAnalyzed Ohtani’s predicted pitching stats for the 2024 season using R and visualizations. This project supported an article exploring what makes him such a unique asset in baseball.\n\nView on GitHub Read the Article"
+    "text": "Data-Driven Trading Strategy\n\n\nDeveloped a custom strategy using the Vortex Indicator, 5-day average sentiment overlays, and ATR filtering. Backtested using VectorBT across multiple tickers like TSLA, SPY, and AAPL.\n\nView on GitHub\n\n\n\n\n\nShohei Ohtani: Performance Breakdown\n\n\nAnalyzed Ohtani’s predicted pitching stats for the 2024 season using R and visualizations. This project supported an article exploring what makes him such a unique asset in baseball.\n\nView on GitHub Read the Article"
   },
   {
     "objectID": "cv.html",
